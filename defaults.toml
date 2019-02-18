@@ -1,0 +1,3 @@
+[django]
+settings-module = 'django_balkans.settings'
+routes-module = 'django_balkans.routes'

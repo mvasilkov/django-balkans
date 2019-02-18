@@ -1,0 +1,13 @@
+{
+  "name": "django-balkans",
+  "version": "1.0.0",
+  "description": "Internet Balkanization Appliance",
+  "main": "manage.py",
+  "repository": "git@github.com:mvasilkov/django-balkans.git",
+  "author": "Mark Vasilkov",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "systematize": "^3.2.4"
+  }
+}
