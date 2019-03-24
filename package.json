@@ -8,6 +8,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "balkans": "^0.0.1",
     "systematize": "^3.2.4"
   }
 }

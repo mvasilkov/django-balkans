@@ -4,7 +4,9 @@ emplace()
 
 # Application definition
 
-INSTALLED_APPS += []
+INSTALLED_APPS += [
+    'board',
+]
 
 # Database
 # https://docs.djangoproject.com/en/2.0/ref/settings/#databases
